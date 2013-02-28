@@ -1,0 +1,12 @@
+Created by Fabian Torres Robles
+CCADET UNAM, Mexico 
+27/02/13
+
+This program is used to calibrate a sharp object using the IGSTK pivot calibration methods
+
+It is needed to pre-build
+- ITK
+- VTK
+- FLTK
+- QT
+- LSQRRecipes
